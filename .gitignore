@@ -1,0 +1,15 @@
+# 元画像（容量が大きいので除外）
+images/converted_jpg/
+images/raw/
+images/__MACOSX/
+
+# 最適化スクリプト
+optimize_images.sh
+
+# 一時ファイル
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 最適化済み画像はコミット
+!images/works/
