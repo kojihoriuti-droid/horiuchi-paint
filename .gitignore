@@ -2,6 +2,13 @@
 images/converted_jpg/
 images/raw/
 images/__MACOSX/
+images/仕事フォルダ/
+
+# スクリーンショット・一時画像
+hp_screenshot.png
+
+# 重複CSS（旧版）
+style.css
 
 # 最適化スクリプト
 optimize_images.sh
